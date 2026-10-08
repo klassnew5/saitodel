@@ -1,0 +1,245 @@
+{
+  "seo": {
+    "title": "Создание сайтов под ключ за 2 дня | СайтоДел",
+    "description": "Создай сайт своей мечты всего за 2 дня! Профессиональная разработка, адаптивный дизайн и SEO-оптимизация."
+  },
+  "brand": {
+    "name": "СайтоДел",
+    "industry": "Разработка сайтов",
+    "slogan": "Лендинг за 2 дня — без учёта корректировок",
+    "colors": "красный, черный",
+    "logo_style": "минимализм"
+  },
+  "hero": {
+    "title": "СайтоДел",
+    "subtitle": "Лендинг за 2 дня — без учёта корректировок",
+    "description": "Мы создаём сайты любой сложности — быстро и качественно. Работаю одна, лично под ваш бизнес.",
+    "cta_text": "Записаться сейчас"
+  },
+  "sections": [
+    {
+      "id": "about_me",
+      "title": "Об авторе",
+      "content": "Меня зовут Ирина. Я создаю лендинги под ключ на ИИ — пишу тексты, генерирую иллюстрации, публикую на хостинге. Работаю одна: быстро, качественно и с душой. Каждый проект делаю лично под ваш бизнес.",
+      "features": [
+        "⚡ Лендинг за 2 дня — 30 000 ₽",
+        "🎨 5 иллюстраций от ИИ — включено",
+        "📱 Адаптив под мобильные — включено",
+        "🚀 Публикация на GitHub Pages — включено"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Что входит в лендинг за 2 дня",
+      "items": [
+        {
+          "name": "🎨 Дизайн",
+          "description": "Готовый шаблон под вашу нишу, ваш логотип и цвета бренда, 5 иллюстраций от ИИ"
+        },
+        {
+          "name": "📝 Контент",
+          "description": "Заголовок, описание, секции: О нас, Услуги, Цены, Отзывы. Тексты на русском"
+        },
+        {
+          "name": "📱 Адаптив",
+          "description": "Мобильная версия и планшетная версия — работают на всех устройствах"
+        },
+        {
+          "name": "📞 Формы",
+          "description": "Форма заявки (имя + телефон), кнопка «Позвонить», кнопка «Позвонить»"
+        },
+        {
+          "name": "🚀 Публикация",
+          "description": "Размещение на GitHub Pages, бесплатный домен, HTTPS, базовая SEO"
+        }
+      ],
+      "content": "Полный список работ — от дизайна до публикации"
+    },
+    {
+      "id": "process",
+      "title": "Как мы работаем",
+      "items": [
+        {
+          "step": "*1*",
+          "name": "Консультация и бриф",
+          "description": "Обсуждаем детали, определяем цели и задачи."
+        },
+        {
+          "step": "*2*",
+          "name": "Дизайн и разработка",
+          "description": "Создаем уникальный дизайн и разрабатываем функциональный сайт."
+        },
+        {
+          "step": "*3*",
+          "name": "Запуск и поддержка",
+          "description": "Запускаем ваш сайт и обеспечиваем техническую поддержку."
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "title": "Отзыв наших гостей",
+      "items": [
+        {
+          "name": "Иван Петров",
+          "text": "Спасибо команде СайтоДел за быстрый и качественный сайт! Теперь мой бизнес выглядит профессионально."
+        },
+        {
+          "name": "Ольга Смирнова",
+          "text": "Очень довольна результатом работы с СайтоДел. Сайт получился именно таким, каким я себе представлял."
+        },
+        {
+          "name": "Сергей Кузнецов",
+          "text": "Были небольшие пожелания по дизайну, но ребята оперативно внесли изменения. Спасибо за профессионализм!"
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Наши услуги",
+      "items": [
+        {
+          "name": "Базовый пакет",
+          "price": "*30 000 ₽*",
+          "description": "Готовый шаблон под вашу нишу, разработка логотипа и цветов бренда, 5 иллюстраций, тексты и адаптация под мобильные устройства."
+        },
+        {
+          "name": "Стандарт",
+          "price": "*45 000 ₽*",
+          "description": "Все услуги базового пакета плюс интеграция с популярными сервисами и бесплатным доменом."
+        },
+        {
+          "name": "Премиум",
+          "price": "*60 000 ₽*",
+          "description": "Полноценное решение вашего бизнеса, включая сложную интеграцию, подключение HTTPS и дополнительную правку дизайна."
+        },
+        {
+          "name": "Диагностика сайта",
+          "price": "*2 500 ₽*",
+          "description": "Экспресс-анализ вашего сайта за 30 минут: слабые места, ошибки, рекомендации по улучшению."
+        }
+      ],
+      "content": "Три формата — под разные задачи и бюджеты"
+    },
+    {
+      "id": "faq",
+      "title": "Часто задаваемые вопросы",
+      "items": [
+        {
+          "question": "Сколько времени занимает создание сайта?",
+          "answer": "Базовый лендинг — 2 дня при готовых материалах (текст, фото, логотип). Стандартный — от 5 дней. Сложный проект — срок обсуждается. Доработки и правки сверх пакета — 5 000 ₽/час."
+        },
+        {
+          "question": "Сколько стоит консультация?",
+          "answer": "Консультация *бесплатная*. Обсуждаем проект, цели и задачи — подбираю решение под ваш бюджет."
+        },
+        {
+          "question": "Можно ли сделать диагностику моего сайта?",
+          "answer": "Да, экспресс-диагностика — *30 минут, 2 500 ₽*. Анализирую ваш сайт: ошибки, слабые места, рекомендации."
+        },
+        {
+          "question": "Можно ли вносить изменения после запуска?",
+          "answer": "Да, доработки — *5 000 ₽/час*."
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "about_me",
+      "caption": "Это я",
+      "prompt": "personal photo of author"
+    },
+    {
+      "id": "hero",
+      "caption": "",
+      "prompt": "modern laptop on desk with website design on screen, notebook with sketches, coffee cup, bright office, no people, no hands, sharp focus, 8k"
+    },
+    {
+      "id": "about",
+      "caption": "",
+      "prompt": "creative workspace with laptop, website mockups on screen, colorful UI elements, no people, no hands, sharp focus, 8k"
+    },
+    {
+      "id": "services",
+      "caption": "",
+      "prompt": "laptop on clean desk showing modern minimal website design, notebook with wireframe sketches, coffee cup, bright office, no people, no hands, sharp focus, ultra high quality, 8k, professional photo"
+    },
+    {
+      "id": "team",
+      "caption": "",
+      "prompt": "team of slavic professionals, smiling, friendly, 4k"
+    },
+    {
+      "id": "result",
+      "caption": "",
+      "prompt": "finished website on laptop screen, modern clean design, no people, no hands, sharp focus, 8k"
+    }
+  ],
+  "privacy_policy": "Настоящая политика конфиденциальности описывает порядок сбора, обработки и защиты персональных данных пользователей. Собираются только необходимые данные: имя, номер телефона, адрес электронной почты. Персональные данные не передаются третьим лицам.",
+  "footer": {
+    "copyright": "© 2026 СайтоДел",
+    "contacts": {
+      "email": "ai.saitodel@yandex.ru"
+    }
+  },
+  "contacts": {
+    "address": "г. Санкт-Петербург",
+    "working_hours": "9:00-21:00",
+    "email": "ai.saitodel@yandex.ru"
+  },
+  "calendly_link": "https://calendly.com/",
+  "downloaded_images": {
+    "hero": [
+      {
+        "path": "images/hero.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "about": [
+      {
+        "path": "images/about.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "services": [
+      {
+        "path": "images/services.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "team": [
+      {
+        "path": "images/team.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "result": [
+      {
+        "path": "images/result.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "about_me": [
+      {
+        "path": "images/about_me.jpg",
+        "photographer": "Автор"
+      }
+    ]
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n<defs>\n<linearGradient id=\"g\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n<stop offset=\"0%\" style=\"stop-color:#e63946\"/>\n<stop offset=\"100%\" style=\"stop-color:#c1121f\"/>\n</linearGradient>\n</defs>\n<rect x=\"10\" y=\"10\" width=\"180\" height=\"180\" rx=\"35\" fill=\"url(#g)\"/>\n<text x=\"100\" y=\"130\" font-family=\"Arial Black\" font-size=\"100\" fill=\"white\" text-anchor=\"middle\">С</text>\n</svg>",
+  "achievements": [
+    {
+      "number": "*2*",
+      "label": "года"
+    },
+    {
+      "number": "*47*",
+      "label": "проектов"
+    },
+    {
+      "number": "*100*",
+      "label": "% довольных"
+    }
+  ]
+}
