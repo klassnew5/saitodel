@@ -2,3 +2,4 @@
 *.before_*
 fix_html.py
 *.old*
+*.bak2
