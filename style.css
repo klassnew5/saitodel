@@ -83,6 +83,10 @@ body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; color: #333; backg
 .bottom-menu a:hover { color: #e63946; }
 footer { background: #0d0d0d; color: #888; padding: 40px 50px; text-align: center; }
 footer .contacts { margin-top: 15px; }
+.social-links { margin-top: 20px; display: flex; gap: 15px; justify-content: center; }
+.social-icon.vk { background: #0077FF; }
+.social-icon.ok { background: #EE8208; }
+.social-icon.tg { background: #0088cc; }
 .privacy-link { margin-top: 15px; }
 .privacy-link a { color: #e63946; }
 @media (max-width: 900px) {
