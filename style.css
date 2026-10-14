@@ -99,18 +99,3 @@ footer .contacts { margin-top: 15px; }
 .section { padding: 50px 20px; }
 }
     
-/* Базовый стиль для иконок соцсетей */
-.social-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
-    background: #1a1a1a;
-    color: #fff !important;
-    text-decoration: none !important;
-    font-weight: 700;
-    font-size: 14px;
-    transition: all 0.3s;
-}
